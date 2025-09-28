@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mamta Jha  
+<h1 align="center">👋 Hi, I'm Mamta Jha</h1>
 
-💡 About Me  
+## 💡 About Me  
 
-I’m a Data Science & Analytics Professional with 8 years of experience building **scalable data pipelines, real-time analytics platforms, and AI-driven solutions**. Currently pursuing my **M.S. in Applied Data Science at San Jose State University**, I bring expertise in **Python, SQL, Airflow, Snowflake, AWS, and PySpark** along with hands-on **ML, NLP, and GenAI applications**.  
+I’m a **Data Science & Analytics Professional** with 8 years of experience designing **scalable data pipelines, building ML forecasting models, and delivering AI-driven solutions** that create measurable business impact. Currently pursuing my **M.S. in Applied Data Science at San Jose State University**, I bring expertise in **Python, SQL, Airflow, Snowflake, AWS, and PySpark**, along with hands-on experience in **ML, NLP, and GenAI applications**.  
 
-My work has delivered measurable impact — from reducing global incidents by **25%** with automated analytics, to boosting marketing conversions by **59%** through NLP and deep learning. I specialize in bridging **data engineering and data science** to turn raw data into predictive insights that drive business decisions.  
+From reducing global incidents by **25%** through automated analytics at Dell Technologies, to boosting marketing conversions by **59%** with NLP and deep learning at Wipro, I enjoy solving complex problems with **production-ready, scalable solutions** that bridge the gap between **data engineering and machine learning**.  
 
 ---
 
